@@ -27,7 +27,7 @@
 
   <ul>
     <li><a href="#">Python</a></li>
-    li><a href="#">Jupyter Notebook</a></li>
+    <li><a href="#">Jupyter Notebook</a></li>
     <li><a href="#">Html</a></li>
   </ul>
 
