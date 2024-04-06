@@ -3,7 +3,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+  <!-- - [Key Features](#key-features) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -25,14 +25,11 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Server</summary>
   <ul>
     <li><a href="#">Python</a></li>
     li><a href="#">Jupyter Notebook</a></li>
     <li><a href="#">Html</a></li>
   </ul>
-</details>
 
 <!-- GETTING STARTED -->
 
